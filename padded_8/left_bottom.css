@@ -1,0 +1,8 @@
+#left_bottom {
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	left: 100px;
+	position: absolute;
+	bottom: 100px;
+}

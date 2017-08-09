@@ -1,0 +1,9 @@
+#right_centre {
+	width: 100px;
+	height: 100px;
+	right: 100px;
+	top: 50%;
+	transform: translateY(-50%);
+	background-color: black;
+	position: absolute;
+}

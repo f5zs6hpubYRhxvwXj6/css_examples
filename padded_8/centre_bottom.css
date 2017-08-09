@@ -1,0 +1,9 @@
+#centre_bottom {
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	left: 50%;
+	transform: translateX(-50%);
+	bottom: 100px;
+	position: absolute;
+}
