@@ -1,0 +1,34 @@
+#outer_left_top {
+	width: 200px;
+	height: 200px;
+	background-color: black;
+}
+
+#row1 {
+	text-align:center; 
+	width:100%; 
+	height:20px;
+}
+
+#left_top {
+	background-color: red;
+	width: 20px;
+	height: 20px;
+	float: left;
+}
+
+#centre_top {
+	display: inline-block;
+    margin: 0 auto;
+	height: 20px;
+	background-color: red;
+	width: 20px;
+}
+
+#right_top {
+	float: right;
+	width: 20px;
+	height: 20px;
+	background-color: red;
+}
+
