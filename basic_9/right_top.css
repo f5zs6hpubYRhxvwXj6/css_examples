@@ -1,6 +1,6 @@
-#outer
-{
+#right_top {
 	width: 100px;
 	height: 100px;
+	float: right;
 	background-color: black;
 }

@@ -1,0 +1,9 @@
+#left_centre
+{
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+}
